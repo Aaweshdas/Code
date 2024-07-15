@@ -9,6 +9,6 @@ int main()
     cin >> b ;
 
     sub = a - b ;
-   cout << "Sum of Two Numbers is "  << a << " and " << b << " is " << sub << endl;
+   cout << "Sum of Two Numbers is"  << a << " and " << b << " is " << sub << endl;
     return 0;
 }

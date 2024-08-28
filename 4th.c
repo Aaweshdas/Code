@@ -3,9 +3,9 @@
 int main()
 {
     int a,b;
-    printf("Please enter teh Value of a");
+    printf("Please enter the Value of a");
      scanf("%d", &a);
-    printf("Please enter teh Value of b");
+    printf("Please enter the Value of b");
      scanf("%d", &b);
     printf("Add is %d\n", a+b );
     printf("Subis %d\n", a-b );

@@ -1,4 +1,3 @@
-//Write a program to write all arithemetic//
 #include <stdio.h>
 
 int main()
